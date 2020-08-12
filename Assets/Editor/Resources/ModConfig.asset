@@ -17,5 +17,5 @@ MonoBehaviour:
   description: Decide how many breaks you're gonna take depending on how many hours
     you work.
   version: 1.0
-  outputFolder: build
+  outputFolder: D:\Steam\steamapps\common\Keep Talking and Nobody Explodes\mods
   previewImage: {fileID: 0}
