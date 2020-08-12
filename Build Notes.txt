@@ -1,0 +1,13 @@
+Template 1.0
+Flavour Text
+
+Module ID: template
+
+Created by: Cyber12
+
+Manual available here: <link>
+
+---
+
+Build 1.0 Notes:
+-Initial release
